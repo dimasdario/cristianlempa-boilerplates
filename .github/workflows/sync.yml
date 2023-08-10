@@ -8,7 +8,7 @@ on:
 jobs:
   sync:
 
-    runs-on: cristianlempa-boilerplates-latest
+    runs-on: ChristianLempa/boilerplates
 
     steps:
       - uses: tgymnich/fork-sync@v1.2.1
